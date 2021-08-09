@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmirIntelligencia
+- 👀 I’m interested in Programming in general!
+- 🌱 I’m currently learning Web dev.
+- 💞️ I’m looking to collaborate on AI related projects
+- 📫 You can contact me on my business email: amirbadawi202@gmail.com
